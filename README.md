@@ -50,4 +50,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
