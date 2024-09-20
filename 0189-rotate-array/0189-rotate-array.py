@@ -6,8 +6,8 @@ class Solution:
         if k >= len(nums):
             k = k % len(nums)
         def reverse(nums: List[int], start: int, end: int) -> List[int]:
-            if len(nums) == 1:
-                return nums
+            # if len(nums) == 1:
+            #     return nums
             while(start < end):
                 temp = nums[end]
                 nums[end] = nums[start]
