@@ -3,14 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        if k == len(nums):
-            return
-        # [1, 2, 3]
-        # [3, 1, 2] 1
-        # [2, 3, 1] 2
-        # [1, 2, 3] 3
-        # [3, 1, 2] 4
-        elif k > len(nums):
+        if k >= len(nums):
             k = k % len(nums)
         def reverse(nums: List[int], start: int, end: int) -> List[int]:
             if len(nums) == 1:
