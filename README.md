@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0134-gas-station) |
 ## Hash Table
 |  |
 | ------- |
