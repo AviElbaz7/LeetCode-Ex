@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0134-gas-station) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -121,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
