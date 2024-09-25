@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0134-gas-station) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
