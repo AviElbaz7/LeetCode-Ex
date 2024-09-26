@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0071-simplify-path) |
+| [0344-reverse-string](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
