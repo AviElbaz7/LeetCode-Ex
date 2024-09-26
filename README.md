@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0048-rotate-image) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
