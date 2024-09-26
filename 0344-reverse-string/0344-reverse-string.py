@@ -3,11 +3,9 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        hashmap = {}
-        n = len(s)-1
-        for i in range(len(s)):
-            hashmap[n] = s[i]
-            n -= 1
-        
-        for i in range(len(s)):
-            s[i] = hashmap[i]
+        right = len(s)-1
+        for i in range(int(len(s)/2)):
+            temp = s[i]
+            s[i] = s[right]
+            s[right] = temp
+            right -= 1
