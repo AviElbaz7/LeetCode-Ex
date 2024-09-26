@@ -1,6 +1,6 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        hashmap = {} # key = char, value = counter
+        hashmap = {} 
         for i in range(len(s)):
             if s[i] in hashmap:
                 hashmap[s[i]] += 1
