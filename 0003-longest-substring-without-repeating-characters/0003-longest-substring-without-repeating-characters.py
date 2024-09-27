@@ -8,5 +8,8 @@ class Solution:
                 if s[j] in hashmap:
                     break
                 hashmap[s[j]] = 1
+            else:
+                maxi = max(maxi, sum(hashmap.values()))
+                return maxi
             maxi = max(maxi, sum(hashmap.values()))
         return maxi
