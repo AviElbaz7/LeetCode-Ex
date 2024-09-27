@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0237-delete-node-in-a-linked-list) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
