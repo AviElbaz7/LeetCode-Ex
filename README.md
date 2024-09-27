@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
