@@ -12,14 +12,13 @@ class Solution:
         queue = []
         queue.append(root)
         while queue:
-            temp_arr = []
+            level_arr = []
             for i in range(len(queue)):
                 curr_node = queue.pop(0)
-                temp_arr.append(curr_node.val)
-
+                level_arr.append(curr_node.val)
                 if curr_node.left:
                     queue.append(curr_node.left)
                 if curr_node.right:
                     queue.append(curr_node.right)
-            result.append(temp_arr)
+            result.append(level_arr)
         return result
