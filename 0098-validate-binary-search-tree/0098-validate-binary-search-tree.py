@@ -8,15 +8,16 @@ class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
         stack = []
         self.inOrder(root, stack)
+        print(stack)
         while stack:
-            element = stack.pop()
+            val = stack.pop()
             if not stack:
                 return True
             peek = stack[-1]
-            if element <= peek:
+            if val <= peek:
                 return False
         return True
-    
+
     def inOrder(self, root: Optional[TreeNode], stack: List[int]) -> List[int]:
         if root is not None:
             self.inOrder(root.left, stack)
