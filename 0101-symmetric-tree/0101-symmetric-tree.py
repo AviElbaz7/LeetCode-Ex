@@ -13,4 +13,6 @@ class Solution:
             return True
         if not t1 or not t2:
             return False
-        return self.mirror(t1.left, t2.right) and self.mirror(t1.right, t2.left) and t1.val == t2.val
+        if t1.val != t2.val:
+            return False
+        return self.mirror(t1.left, t2.right) and self.mirror(t1.right, t2.left)
