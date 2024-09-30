@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Binary Search
 |  |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
