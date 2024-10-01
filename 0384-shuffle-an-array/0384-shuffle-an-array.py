@@ -7,7 +7,7 @@ class Solution:
         return self.nums
 
     def shuffle(self) -> List[int]:
-        shuffled = list(self.nums)
+        shuffled = self.nums.copy()
         random.shuffle(shuffled)
         return shuffled
 
