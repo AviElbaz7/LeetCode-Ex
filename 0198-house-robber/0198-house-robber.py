@@ -13,3 +13,6 @@ class Solution:
             j = i % 3
             dp[j] = max(dp[j-1], dp[j-2] + nums[i])
         return dp[j]
+
+        # Time Complexity = O(n)
+        # Space Complexity = O(1)
