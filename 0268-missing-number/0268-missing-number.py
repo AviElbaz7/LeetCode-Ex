@@ -1,13 +1,6 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        hashtable = {}
-        for num in nums:
-            hashtable[num] = 1
-        maxi = max(nums)
-        mini = min(nums)
-        for i in range(mini, maxi + 1):
-            if i not in hashtable:
-                return i
-        if 0 not in hashtable:
-            return 0
-        return len(nums)
+        sum_nums = (len(nums) * (len(nums) + 1)) // 2
+        total = sum(nums)
+        
+        return sum_nums - total
