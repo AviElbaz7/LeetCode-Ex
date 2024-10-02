@@ -4,13 +4,9 @@ class Solution:
         stack = []
         for char in s:
             if char in matching:
-                stack.append(char)
-            elif char in matching.values() and stack:
-                val = stack.pop()
-                if matching[val] != char:
-                    return False
-            elif char in matching.values() and not stack:
+                stack.append(matching[char])
+            elif not stack or stack.pop() != char:
                 return False
-        if not stack:
-            return True
-        return False
+        if stack:
+            return False
+        return True
