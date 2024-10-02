@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0191-number-of-1-bits) |
 ## Interactive
 |  |
 | ------- |
@@ -221,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0384-shuffle-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
