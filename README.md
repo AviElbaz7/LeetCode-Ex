@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0226-invert-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0226-invert-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -245,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0412-fizz-buzz) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
