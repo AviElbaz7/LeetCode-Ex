@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0134-gas-station) |
 ## Hash Table
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0121-best-time-to-buy-and-sell-stock) |
