@@ -1,17 +1,13 @@
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
-        if len(nums) == 1:
-            return True
-        near, far = 0, 0
-        while far < len(nums):
-            # far = 1, near = 1, farthest = 0
-            farthest = 0
-            for i in range(near, far + 1):
-                farthest = max(farthest, i + nums[i])
-            if farthest >= len(nums) - 1:
-                return True
-            if farthest == far:
+        farthest = 0  # Farthest position we can reach so far
+        for i in range(len(nums)):
+            if i > farthest:
+                # If we are at a position beyond the farthest point we can reach, we can't proceed
                 return False
-            far = farthest
-            near += 1
+            # Update the farthest point we can reach from this position
+            farthest = max(farthest, i + nums[i])
+            if farthest >= len(nums) - 1:
+                # If we can reach or exceed the last index, return True
+                return True
         return True
