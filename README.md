@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0063-unique-paths-ii) |
 ## Queue
 |  |
 | ------- |
