@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0053-maximum-subarray) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0134-gas-station) |
 ## Hash Table
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0118-pascals-triangle) |
