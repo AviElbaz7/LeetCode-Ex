@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0384-shuffle-an-array](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0384-shuffle-an-array) |
+| [0792-binary-search](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
