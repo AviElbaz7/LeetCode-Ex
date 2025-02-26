@@ -295,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
