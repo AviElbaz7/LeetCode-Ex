@@ -1,11 +1,11 @@
 # Write your MySQL query statement below
 SELECT
-    w1.id AS Id
+    today.id AS Id
 FROM
-    Weather AS w1
-JOIN
-    Weather AS w2
-ON
-    w1.recordDate = DATE_ADD(w2.recordDate, INTERVAL 1 DAY)
+    Weather AS yesterday
+CROSS JOIN
+    Weather AS today
 WHERE
-    w1.temperature > w2.temperature
+    DATEDIFF(today.recordDate, yesterday.recordDate) = 1
+AND
+    today.temperature > yesterday.temperature
