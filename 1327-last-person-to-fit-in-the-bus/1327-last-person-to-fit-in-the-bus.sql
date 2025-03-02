@@ -2,7 +2,7 @@
 SELECT
     person_name
 FROM (
-    SELECT person_name, weight, SUM(weight) OVER(ORDER BY turn) AS running_total
+    SELECT person_name, SUM(weight) OVER(ORDER BY turn) AS running_total
     FROM Queue
 ) AS temp_table
 WHERE
