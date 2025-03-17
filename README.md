@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0695-max-area-of-island) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0279-perfect-squares) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0695-max-area-of-island) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0300-longest-increasing-subsequence) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Binary Search
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/2121-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
@@ -349,4 +353,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-count-salary-categories](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/2127-employees-whose-manager-left-the-company) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0803-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
