@@ -1,13 +1,13 @@
 # Write your MySQL query statement below
 SELECT
-    e1.name
+    employee.name
 FROM
-    Employee AS e1
+    Employee AS employee
 JOIN
-    Employee AS e2
+    Employee AS manager
 ON
-    e1.id = e2.managerId
+    employee.id = manager.managerId
 GROUP BY
-    e1.id
+    manager.managerId
 HAVING
     COUNT(*) >= 5
