@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0695-max-area-of-island) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0279-perfect-squares) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0417-pacific-atlantic-water-flow) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0207-course-schedule) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/2121-find-if-path-exists-in-graph) |
 ## Backtracking
@@ -364,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0803-cheapest-flights-within-k-stops) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
