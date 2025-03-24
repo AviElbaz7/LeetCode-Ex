@@ -1,10 +1,9 @@
-WITH bus as (
-    SELECT person_name, turn, sum(weight) over(order by turn) as total_weight
+# Write your MySQL query statement below
+WITH comulative_weights_by_turn AS (
+    SELECT person_name, SUM(weight) OVER (ORDER BY turn) AS comulative
     FROM Queue
 )
 
-select person_name
-from bus
-where total_weight <= 1000
-order by total_weight desc
-limit 1
+SELECT person_name
+FROM comulative_weights_by_turn
+WHERE comulative = (SELECT MAX(comulative) AS new FROM comulative_weights_by_turn WHERE comulative <= 1000)
