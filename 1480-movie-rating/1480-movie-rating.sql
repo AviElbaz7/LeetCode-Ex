@@ -1,25 +1,35 @@
-# Write your MySQL query statement below
-
-# name of user who watched most movies
-WITH num_movies_user_watched AS (
-    SELECT name
-    FROM MovieRating AS mr
-    NATURAL JOIN Users AS u
+WITH user_rating_count AS (
+    SELECT user_id, COUNT(*) AS rating_count
+    FROM MovieRating
     GROUP BY user_id
-    ORDER BY COUNT(DISTINCT movie_id) DESC, name
+),
+top_user AS (
+    SELECT u.name
+    FROM Users u
+    JOIN user_rating_count ur ON u.user_id = ur.user_id
+    WHERE ur.rating_count = (
+        SELECT MAX(rating_count) FROM user_rating_count
+    )
+    ORDER BY u.name
     LIMIT 1
 ),
-# average rating of each movie for february 2020
-average_rating_per_movie AS (
-    SELECT title
+movie_avg_rating AS (
+    SELECT movie_id, AVG(rating) AS avg_rating
     FROM MovieRating
-    NATURAL JOIN Movies
     WHERE YEAR(created_at) = 2020 AND MONTH(created_at) = 2
     GROUP BY movie_id
-    ORDER BY AVG(rating) DESC, title
+),
+top_movie AS (
+    SELECT m.title
+    FROM Movies m
+    JOIN movie_avg_rating r ON m.movie_id = r.movie_id
+    WHERE r.avg_rating = (
+        SELECT MAX(avg_rating) FROM movie_avg_rating
+    )
+    ORDER BY m.title
     LIMIT 1
 )
 
-SELECT name AS results FROM num_movies_user_watched
+SELECT name AS results FROM top_user
 UNION ALL
-SELECT title FROM average_rating_per_movie
+SELECT title FROM top_movie;
