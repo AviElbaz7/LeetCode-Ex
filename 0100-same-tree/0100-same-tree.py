@@ -12,27 +12,13 @@ class Solution:
         elif not p or not q:
             return False
         else:
-            q1, q2 = deque(), deque()
-            q1.append(p)
-            q2.append(q)
-            while q1 or q2:
-                for i in range(max(len(q1), len(q2))):
-                    if (q1 and not q2) or (q2 and not q1):
-                        return False
-                    print(q1, q2)
-                    node1, node2 = q1.popleft(), q2.popleft()
-                    if node1.val != node2.val:
-                        return False
-                    if (node1.left and not node2.left) or (node2.left and not node1.left):
-                        return False
-                    if (node1.right and not node2.right) or (node2.right and not node1.right):
-                        return False
-                    if node1.left:
-                        q1.append(node1.left)
-                    if node1.right:
-                        q1.append(node1.right)
-                    if node2.left:
-                        q2.append(node2.left)
-                    if node2.right:
-                        q2.append(node2.right)
+            q = deque([(p, q)])
+            while q:
+                n1, n2 = q.popleft()
+                if not n1 and not n2:
+                    continue
+                if (n1 and not n2) or (n2 and not n1) or n1.val != n2.val:
+                    return False
+                q.append((n1.left, n2.left))
+                q.append((n1.right, n2.right))
         return True
