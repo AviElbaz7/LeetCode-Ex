@@ -1,12 +1,12 @@
 # Write your MySQL query statement below
-SELECT
-    customer_id
-FROM
-    Customer AS c
-GROUP BY
-    customer_id
-HAVING
-    COUNT(DISTINCT product_key) = (
-        SELECT COUNT(DISTINCT product_key)
-        FROM Product
-    )
+-- WITH num_of_unique_products_per_customer AS (
+--     SELECT customer_id
+--     FROM Customer
+--     GROUP BY customer_id
+--     HAVING COUNT(DISTINCT product_key) = (SELECT COUNT(*) AS num FROM Product)
+-- )
+
+SELECT customer_id
+FROM Customer
+GROUP BY customer_id
+HAVING COUNT(DISTINCT product_key) = (SELECT COUNT(*) AS num FROM Product)
