@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0384-shuffle-an-array](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0384-shuffle-an-array) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0417-pacific-atlantic-water-flow) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
 | ------- |
