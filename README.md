@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0443-string-compression) |
 ## Greedy
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0443-string-compression) |
 ## Sliding Window
 |  |
 | ------- |
