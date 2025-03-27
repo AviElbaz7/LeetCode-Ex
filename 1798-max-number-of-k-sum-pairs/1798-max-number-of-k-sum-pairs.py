@@ -1,21 +1,16 @@
+from collections import Counter
+
 class Solution:
     def maxOperations(self, nums: List[int], k: int) -> int:
-        dicti = {}
+        freq = Counter(nums)
         res = 0
-        for n in nums:
-            if n in dicti:
-                dicti[n] += 1
-            else:
-                dicti[n] = 1
-        
-        for n in nums:
-            if dicti.get(n, 0) == 0:
-                continue
-            if dicti.get(k - n, 0) == 0:
-                continue
-            if (k - n) == n and dicti[n] < 2:
-                continue
-            res += 1
-            dicti[n] -= 1
-            dicti[k - n] -= 1
+
+        for num in nums:
+            if freq[num] > 0 and freq.get(k - num, 0) > 0:  # לבדוק אם קיים צמד
+                if num == k - num and freq[num] < 2:  # מונע שימוש יתר במספר זהה
+                    continue
+                res += 1
+                freq[num] -= 1
+                freq[k - num] -= 1
+
         return res
