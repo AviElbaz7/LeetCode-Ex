@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0792-binary-search) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0387-first-unique-character-in-a-string) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
 |  |
 | ------- |
