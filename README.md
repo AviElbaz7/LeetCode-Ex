@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0437-path-sum-iii) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0437-path-sum-iii) |
 | [0695-max-area-of-island](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0695-max-area-of-island) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0695-max-area-of-island) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0437-path-sum-iii) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
 |  |
