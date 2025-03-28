@@ -1,10 +1,7 @@
 # Write your MySQL query statement below
-SELECT DISTINCT num AS ConsecutiveNums
-FROM (
-    SELECT *,
-    COUNT(*) OVER (ORDER BY id ROWS BETWEEN 2 PRECEDING AND CURRENT ROW) AS cnt,
-    MAX(num) OVER (ORDER BY id ROWS BETWEEN 2 PRECEDING AND CURRENT ROW) AS max_val,
-    MIN(num) OVER (ORDER BY id ROWS BETWEEN 2 PRECEDING AND CURRENT ROW) AS min_val
-    FROM Logs
-) AS windowed
-WHERE cnt = 3 AND max_val = min_val
+SELECT DISTINCT l1.num AS ConsecutiveNums
+FROM Logs AS l1
+JOIN Logs AS l2
+ON l1.id = (l2.id - 1) AND l1.num = l2.num
+JOIN Logs AS l3
+ON l2.id = (l3.id - 1) AND l2.num = l3.num
