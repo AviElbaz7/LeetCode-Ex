@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0792-binary-search) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Two Pointers
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0695-max-area-of-island) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Queue
 |  |
 | ------- |
