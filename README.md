@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0437-path-sum-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0210-course-schedule-ii) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0210-course-schedule-ii) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0437-path-sum-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1544-count-good-nodes-in-binary-tree) |
