@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0226-invert-binary-tree) |
+| [0437-path-sum-iii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0437-path-sum-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0417-pacific-atlantic-water-flow) |
+| [0437-path-sum-iii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0437-path-sum-iii) |
 | [0695-max-area-of-island](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0695-max-area-of-island) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0226-invert-binary-tree) |
+| [0437-path-sum-iii](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/0437-path-sum-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AviElbaz7/LeetCode-Ex/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
 |  |
