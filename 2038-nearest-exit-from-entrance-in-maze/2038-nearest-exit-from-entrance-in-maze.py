@@ -4,7 +4,7 @@ class Solution:
         rows, cols = len(maze), len(maze[0])
         directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
         q.append(entrance)
-        minimum_steps = 1
+        minimum_steps = 0
         visited = set()
         visited.add(tuple(entrance))
 
@@ -12,12 +12,12 @@ class Solution:
             n = len(q)
             for i in range(n):
                 x, y = q.popleft()
+                if (x == (rows - 1) or y == (cols - 1) or x == 0 or y == 0) and [x, y] != entrance:
+                    return minimum_steps
                 for dx, dy in directions:
                     nx, ny = x + dx, y + dy
                     if 0 <= nx < rows and 0 <= ny < cols and maze[nx][ny] == "." and (nx, ny) not in visited:
                         q.append([nx, ny])
                         visited.add((nx, ny))
-                        if nx == (rows - 1) or ny == (cols - 1) or nx == 0 or ny == 0:
-                            return minimum_steps
             minimum_steps += 1
         return -1
