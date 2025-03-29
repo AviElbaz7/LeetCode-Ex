@@ -1,28 +1,26 @@
 # Write your MySQL query statement below
-# requester friends
-WITH requester_friends AS (
-    SELECT requester_id, COUNT(*) AS num_of_friends
+WITH requesters_num_friends AS (
+    SELECT requester_id, COUNT(*) AS friends_num
     FROM RequestAccepted
     GROUP BY requester_id
 ),
-accepter_friends AS (
-    SELECT accepter_id, COUNT(*) AS num_of_friends
+accepters_num_friends AS (
+    SELECT accepter_id, COUNT(*) AS friends_num
     FROM RequestAccepted
     GROUP BY accepter_id
 ),
-all_friends AS (
-    SELECT id, SUM(num) AS num
-    FROM
-    (
-        SELECT requester_id AS id, num_of_friends AS num
-        FROM requester_friends
+united AS (
+    SELECT id, SUM(friends_num) AS num
+    FROM (
+        SELECT requester_id AS id, friends_num
+        FROM requesters_num_friends
         UNION ALL
-        SELECT *
-        FROM accepter_friends
+        SELECT accepter_id AS id, friends_num
+        FROM accepters_num_friends
     ) AS sub
     GROUP BY id
 )
 
-SELECT *
-FROM all_friends
-WHERE num = (SELECT MAX(num) FROM all_friends)
+SELECT id, num
+FROM united
+WHERE num = (SELECT MAX(num) FROM united)
